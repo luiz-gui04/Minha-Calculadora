@@ -8,4 +8,4 @@
 <li> JavaScript</li>
 </ul>
 
-<p>Para ver a calculadora <a href=" https://luiz-gui04.github.io/Minha-Calculadora"/>clique aqui</a></p>
+<p>Para ver a calculadora <a href="https://luiz-gui04.github.io/Minha-Calculadora/"/>clique aqui</a></p>
